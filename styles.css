@@ -1,1 +1,11 @@
+h1 {
+  text-style: bold;
+  text-color: red; 
+  text-size: 21;
+}
 
+p {
+  text-style: italized; 
+  text-color: blue; 
+  text-size: 14;
+}
